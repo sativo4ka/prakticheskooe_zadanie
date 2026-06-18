@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "customer_id": 1,
+        "order_date": "2026-06-15",
+        "status": "выполнен",
+        "total": 1200.0
+    },
+    {
+        "id": 2,
+        "customer_id": 1,
+        "order_date": "2026-06-18",
+        "status": "новый",
+        "total": 850.0
+    },
+    {
+        "id": 3,
+        "customer_id": 2,
+        "order_date": "2026-06-17",
+        "status": "в доставке",
+        "total": 3100.0
+    },
+    {
+        "id": 4,
+        "customer_id": 3,
+        "order_date": "2026-06-18",
+        "status": "выполнен",
+        "total": 2500.0
+    },
+    {
+        "id": 5,
+        "customer_id": 4,
+        "order_date": "2026-06-16",
+        "status": "выполнен",
+        "total": 4500.0
+    },
+    {
+        "id": 6,
+        "customer_id": 5,
+        "order_date": "2026-06-18",
+        "status": "отменён",
+        "total": 150.0
+    }
+]
